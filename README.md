@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mukundraj Irkal 
 - 👀 I’m interested in React, Python 
 - 🌱 I’m currently learning React
-- 📫 How to reach me insta @mukundraj2620
 
 <!---
 mukund2620/mukund2620 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
